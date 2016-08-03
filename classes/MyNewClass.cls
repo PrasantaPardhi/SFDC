@@ -1,3 +1,5 @@
 public class MyNewClass{
-	public void sayHello(){}
+	public void sayHello(){
+		System.debug('Hello');
+	}
 }
