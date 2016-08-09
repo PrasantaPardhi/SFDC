@@ -1,5 +1,5 @@
 public class MyNewClass{
 	public void sayHello(){
-		System.debug('Hello World');
+		System.debug('Test Jenkins');
 	}
 }
